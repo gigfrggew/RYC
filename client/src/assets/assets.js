@@ -14,7 +14,6 @@ import location_icon from "./location_icon.svg";
 import fuel_icon from "./fuel_icon.svg";
 import carIcon from "./carIcon.svg";
 import carIconColored from "./carIconColored.svg";
-import dashboardIcon from "./dashboardIcon.svg";
 import dashboardIconColored from "./dashboardIconColored.svg";
 import addIconColored from "./addIconColored.svg";
 import addIcon from "./addIcon.svg"
@@ -63,7 +62,6 @@ export const assets = {
   addIcon,
   carIcon,
   carIconColored,
-  dashboardIcon,
   dashboardIconColored,
   addIconColored,
   listIcon,
