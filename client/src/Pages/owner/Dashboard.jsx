@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { assets, dummyDashboardData } from '../../assets/assets'
+import { assets } from '../../assets/assets'
 import Title from '../../Components/owner/Title'
 import { useAppContext } from '../../context/AppContext'
 

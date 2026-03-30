@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Title from '../../Components/owner/Title';
-import { dummyCarData,assets } from '../../assets/assets';
+import {assets } from '../../assets/assets';
 import { useAppContext } from '../../context/AppContext';
 import toast from 'react-hot-toast';
 const ManageCars = () => {

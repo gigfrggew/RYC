@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
-import { dummyCarData } from '../assets/assets'
 import { useNavigate } from 'react-router-dom'
 import { assets } from '../assets/assets'
 import Loader from '../Components/Loader'
